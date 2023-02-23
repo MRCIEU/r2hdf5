@@ -1,0 +1,38 @@
+name: hdf5
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h3422bc3_4
+  - ca-certificates=2022.12.7=h4653dfc_0
+  - certifi=2022.12.7=pyhd8ed1ab_0
+  - libblas=3.9.0=16_osxarm64_openblas
+  - libcblas=3.9.0=16_osxarm64_openblas
+  - libcxx=14.0.6=h848a8c0_0
+  - libffi=3.4.2=hca03da5_6
+  - libgfortran=5.0.0=11_3_0_hd922786_28
+  - libgfortran5=11.3.0=hdaf2cc0_28
+  - liblapack=3.9.0=16_osxarm64_openblas
+  - libopenblas=0.3.21=openmp_hc731615_3
+  - libsqlite=3.40.0=h76d750c_0
+  - libzlib=1.2.13=h03a7124_4
+  - llvm-openmp=15.0.7=h7cfbb63_0
+  - ncurses=6.4=h313beb8_0
+  - numpy=1.24.2=py38hac8ee1c_0
+  - openssl=3.0.8=h03a7124_0
+  - pandas=1.5.3=py38h61dac83_0
+  - pip=22.3.1=py38hca03da5_0
+  - pyreadr=0.4.7=py38hb13658c_2
+  - python=3.8.16=h3ba56d0_1_cpython
+  - python-dateutil=2.8.2=pyhd8ed1ab_0
+  - python_abi=3.8=3_cp38
+  - pytz=2022.7.1=pyhd8ed1ab_0
+  - readline=8.2=h1a28f6b_0
+  - setuptools=65.6.3=py38hca03da5_0
+  - six=1.16.0=pyh6c4a22f_0
+  - sqlite=3.40.1=h7a7dc30_0
+  - tk=8.6.12=hb8d0fd4_0
+  - wheel=0.38.4=py38hca03da5_0
+  - xz=5.2.10=h80987f9_1
+  - zlib=1.2.13=h03a7124_4
+prefix: /Users/eptrg/miniconda3/envs/hdf5
